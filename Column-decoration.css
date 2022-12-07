@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
+h1{
+text-decoration: overline underline; 
+}
+.undertext1{
+  text-align: center;
+  border-top: 5px solid olivedrab;
+  border-bottom: 5px solid olivedrab;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-decoration: underline red wavy 2px;
+}
+.undertext2{
+  text-align: center;
+  border-top: 5px solid olivedrab;
+  border-bottom: 5px solid olivedrab;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+h1{
+    text-transform: capitalize;
+    font-family: 'Nerko One', cursive;
+    font-family: serif;
+}
+.tag{
+    word-spacing: 2px;
+}
+.video-1{
+  width: 100px;
+  height: 125px;
+}

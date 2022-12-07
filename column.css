@@ -1,0 +1,46 @@
+.body {
+  font-size: 20px;
+  background-color: antiquewhite;
+}
+
+.columns {
+  column-count: 4;
+  column-width: 200px;
+  column-gap: 10px;
+  column-rule: 3px solid black;
+}
+
+.tag {
+  font-size: 1rem;
+  margin-top: 0;
+  column-span: all;
+  text-align: center;
+  font-weight: bold;
+}
+h1 {
+  text-align: left;
+}
+h2 {
+  text-align: center;
+  border-top: 5px solid olivedrab;
+  border-bottom: 5px solid olivedrab ;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+img {
+  height: 250px;
+  width: 100%;
+}
+.beop{
+  background-color: olivedrab;
+  border: 2px solid black;
+}
+.icon{
+  height: 60px;
+  width: 65px;
+  float:right;
+}
+.video-1{
+  width: 300px;
+  height: 225px;
+}
